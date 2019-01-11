@@ -44,7 +44,7 @@
     打开命令行，输入以下命令
     ```bash
     npm install -g cnpm --registry=https://registry.npm.taobao.org
-    cd litemall/litemall-admin
+    cd cmi-mall/cmi-admin
     cnpm install
     cnpm run dev
     ```
